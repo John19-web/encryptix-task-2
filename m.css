@@ -1,0 +1,41 @@
+#l1{
+    text-align: center;
+    border:5px solid;
+    background-color:black;
+    margin-left: 34%;
+    margin-right:30%;
+    margin-top: 2%;
+    padding: 10px; 
+    border-radius: 100%;
+    font-family: cursive;
+    color: yellowgreen;
+}
+#l2{
+    text-align: center;
+    text-decoration: solid black;
+    color: yellowgreen;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://images.alphacoders.com/771/771158.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.messi{
+    margin-left: 50%;
+    margin-top: 2%;
+    border: 5px solid;
+    padding:10px;
+    border-style: outset;
+    border-radius: 20px;
+    border-color: pink;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: yellow;
+    background-color: black;
+}
+.a{
+    color: pink;
+}
